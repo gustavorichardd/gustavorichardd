@@ -23,3 +23,9 @@ If you need to talk to me, here are the places you'll get:
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-1B570F?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavorichardd/)](https://www.linkedin.com/in/gustavorichardd/) 
 [![Email Badge](https://img.shields.io/badge/-Whatsapp-1B570F?style=flat-square&labelColor=1B570F&logo=whatsapp&logoColor=white&link=https://www.instagram.com/gustavorichardd/)](https://wa.me/55048996081114)
 [![Whatsapp Badge](https://img.shields.io/badge/-Email-1B570F?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:gustavo.richard@outlook.com.br)](mailto:gustavo.richard@outlook.com.br)
+
+Some metrycs:
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavorichardd&count_private=true&show_icons=true&theme=vue-dark)]
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavorichardd&layout=compact&theme=vue-dark)]
