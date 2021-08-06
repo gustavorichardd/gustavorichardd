@@ -22,4 +22,4 @@ If you need to talk to me, here are the places you'll get:
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-1B570F?style=flat-square&labelColor=1B570F&logo=instagram&logoColor=white&link=https://www.instagram.com/gustavorichardd/)](https://www.instagram.com/gustavorichardd/)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-1B570F?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavorichardd/)](https://www.linkedin.com/in/gustavorichardd/) 
 [![Email Badge](https://img.shields.io/badge/-Whatsapp-1B570F?style=flat-square&labelColor=1B570F&logo=whatsapp&logoColor=white&link=https://www.instagram.com/gustavorichardd/)](https://wa.me/55048996081114)
-[![Whatsapp Badge](https://img.shields.io/badge/-Email-1B570F?style=flat-square&logo=microsoft-outlook&logoColor=white&link=gustavo.richard@outlook.com.br)](gustavo.richard@outlook.com.br)
+[![Whatsapp Badge](https://img.shields.io/badge/-Email-1B570F?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:gustavo.richard@outlook.com.br)](mailto:gustavo.richard@outlook.com.br)
