@@ -28,4 +28,4 @@ Some metrics:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavorichardd&count_private=true&show_icons=true&theme=vue-dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavorichardd&layout=compact&theme=vue-dark)
+
